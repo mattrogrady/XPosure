@@ -1,1 +1,2 @@
 # XPosure
+XPosure is a virtual reality simulation that was developed using Unity software and C# scripts. By exposing its users to situations that would invoke their fears for a set period of time (exit key is available for those who cannot withstand the preset time period), XPosure drastically helps its users overcome their fears. The currently integrated fears are acrophobia (fear of heights) and astraphobia (fear of lightning/thunder). 
